@@ -3,6 +3,16 @@
   padding: 0;
 }
 
-h2{
+h2,
+h4{
   font-family: 'Rokkitt', sans-serif;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+select,
+option{
+  background-color: #cccc;
 }
