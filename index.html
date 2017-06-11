@@ -6,19 +6,36 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="assets\css\main.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Rokkitt" rel="stylesheet">
+  <link rel="stylesheet" href="assets\css\vendor\materialize.min.css">
   <title>Smash Faces</title>
 </head>
 <body>
   <h2>Smash Faces</h2>
   <hr>
   <p>Bienvenidos al juego de Smash Faces, tu misión es poder identificar a todas tus compañeras de clase ingresando para ello su nombre. Tienes 5 oportunidades antes de perder un punto para pasar a la siguiente.</p>
-  <h4>Elige tu sede: </h4>
-  <select>
-    <option hidden value=""></option>
-    <option value="lima">Lima</option>
-    <option value="mexico">México</option>
-  </select>
+  <section class="row game-structure">
+
+    <div class="col l3">
+      <h4>Elige tu sede: </h4>
+    </div>
+
+    <div class="col l3">
+      <select>
+        <option hidden value=""></option>
+        <option value="lima">Lima</option>
+        <option value="mexico">México</option>
+      </select>
+     </div>
+
+      <div class="col l4">
+        <p>Puntos: 0 puntos</p>
+      </div>
+  </section>
+  <section>
+
+  </section>
   <script src="Materiales\js\mexico.js"></script>
   <script src="Materiales\js\peru.js"></script>
+  <script src="assets\js\main.js"></script>
 </body>
 </html>
