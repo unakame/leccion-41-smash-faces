@@ -12,28 +12,43 @@
 <body>
   <h2>Smash Faces</h2>
   <hr>
-  <p>Bienvenidos al juego de Smash Faces, tu misión es poder identificar a todas tus compañeras de clase ingresando para ello su nombre. Tienes 5 oportunidades antes de perder un punto para pasar a la siguiente.</p>
+  <div class="row">
+
+
+
+   <p class="col l8 left-align">Bienvenidos al juego de Smash Faces, tu misión es poder identificar a todas tus compañeras de clase ingresando para ello su nombre. Tienes 5 oportunidades antes de perder un punto para pasar a la siguiente.</p>
+  </div>
   <section class="row game-structure">
 
     <div class="col l3">
       <h4>Elige tu sede: </h4>
     </div>
 
-    <div class="col l3">
-      <select>
+    <div class="col l3 selection">
+      <select class="cities">
         <option hidden value=""></option>
-        <option value="lima">Lima</option>
-        <option value="mexico">México</option>
+        <option value="choiceLima">Lima</option>
+        <option value="choiceMexico">Ciudad de México</option>
       </select>
      </div>
 
-      <div class="col l4">
+      <div class="col l4 points">
         <p>Puntos: 0 puntos</p>
       </div>
   </section>
-  <section>
-
+  <section class="row">
+    <div class="col l5 photoSpace"></div>
+    <div class="col l7">
+      <div class="insertName">
+        <form class="" action="index.html" method="post" class="row">
+          <p class="insertName2">Ingresa su nombre:</p><br>
+          <input type="text" name="" value="" placeholder="Nombre"><br>
+          <button type="submit" name="button" class="center-align"> COMPROBAR </button>
+        </form>
+      </div>
+    </div>
   </section>
+  <script src="assets\js\vendor\jquery-3.2.1.min.js"></script>
   <script src="Materiales\js\mexico.js"></script>
   <script src="Materiales\js\peru.js"></script>
   <script src="assets\js\main.js"></script>
