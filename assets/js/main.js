@@ -1,17 +1,3 @@
-/*$(document).ready(function(){
-  $("#cities").change(function() {
-    var selectedOption = $('#cities option:selected');
-    //choiceCities = $(this).val();
-    if(selectedOption == "choiceLima"){
-      alert("hola");
-    }
-    /*if(choiceCities == "choiceLima"){
-       var image = $("<img src='assets/peru/AntonellaGutierrez.jpg'>")
-      $(.'photoSpace').append("image");
-    }
-});
-}*/
-
 $(document).ready(function(){
   $('#cities').change(function(){
     var selectedOption = $('#cities option:selected');
@@ -24,4 +10,21 @@ $(document).ready(function(){
       $('.photoSpace').html(image)
     }
   });
+
+   /*$('#answer').val(function(){
+     var respuesta = $('#answer');
+      respuesta.preventDefault;
+     if(respuesta == "li"){
+       alert ("yey");
+     }
+   })*/
+   $( "input" )
+    .keyup(function() {
+      var value = $( this ).val();
+    if(value=="iiiii"){
+      alert ("hola");
+    }
+    })
+      .keyup();
+
 });
