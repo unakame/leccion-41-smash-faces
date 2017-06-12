@@ -4,6 +4,7 @@ $(document).ready(function(){
     choiceCities = $(this).val();
 
     if(choiceCities == "choiceLima"){
-      $(.'photoSpace').html('<img src="assets/peru/JoselynInga.JPG">')
+       var image = $("<img src='assets/peru/AntonellaGutierrez.jpg'>")
+      $(.'photoSpace').append("image");
     }
 });
