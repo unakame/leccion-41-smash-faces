@@ -1,124 +1,124 @@
 var peru =  [{
-              image:"Ana Paula Verme.jpg",
+              image:"AnaPaulaVerme.jpg",
               name:"Ana"
             },{
-              image:"Joselyn Inga.JPG",
+              image:"JoselynInga.JPG",
               name:"Joselyn"
             },{
-              image:"Antonella Gutierrez.jpg",
-              name:"Antonella" 
+              image:"AntonellaGutierrez.jpg",
+              name:"Antonella"
             },{
-              image:"Karen Valdivia.JPG",
+              image:"KarenValdivia.JPG",
               name:"Karen"
             },{
-              image:"Astrid Cordova.jpg",
+              image:"AstridCordova.jpg",
               name:"Astrid"
             },{
-              image:"Carmenrosa Arias.jpg",
+              image:"CarmenrosaArias.jpg",
               name:"Carmenrosa"
             },{
-              image:"Daniela Segura.JPG",
+              image:"DanielaSegura.JPG",
               name:"Daniela"
             },{
-              image:"Diana Santisteban.JPG",
+              image:"DianaSantisteban.JPG",
               name:"Diana"
             },{
-              image:"Emily Elena Vivanco.jpg",
+              image:"EmilyElenaVivanco.jpg",
               name:"Emily"
             },{
-              image:"Gabriela Segura.jpg",
+              image:"GabrielaSegura.jpg",
               name:"Gabriela"
             },{
-              image:"Genesis Leon.jpg", 
+              image:"GenesisLeon.jpg",
               name:"Genesis"
             },{
-              image:"Ingrid Dariana Patiño.jpg",
+              image:"IngridDarianaPatiño.jpg",
               name:"Dariana"
             },{
-              image:"Janet Huacahuasi.jpg",
+              image:"JanetHuacahuasi.jpg",
               name:"Janet"
             },{
-              image:"Jenny Vega.JPG",
+              image:"JennyVega.JPG",
               name:"Jenny"
             },{
-              image:"Jesenia Rodríguez.JPG",
+              image:"JeseniaRodríguez.JPG",
               name:"Jesenia"
             },{
-              image:"Johana Azañero.JPG",
+              image:"JohanaAzañero.JPG",
               name:"Johana"
             },{
-              image:"Johelyn Cordova.JPG",
+              image:"JohelynCordova.JPG",
               name:"Johelyn"
             },{
-              image:"Pierina Acevedo.JPG",
+              image:"PierinaAcevedo.JPG",
               name:"Pierina"
             },{
-              image:"Karina Prado.jpg",
+              image:"KarinaPrado.jpg",
               name:"Karina"
             },{
-              image:"Karla Rios.jpg",
+              image:"KarlaRios.jpg",
               name:"Karla"
             },{
-              image:"Katherine Llacza.JPG",
+              image:"KatherineLlacza.JPG",
               name:"Katherine"
             },{
-              image:"Kiara Esquerra.JPG",
+              image:"KiaraEsquerra.JPG",
               name:"Kiara"
             },{
-              image:"Lisbeth Balabarca.JPG",
+              image:"LisbethBalabarca.JPG",
               name:"Lisbeth"
             },{
-              image:"Lizeth Lopez.JPG",
+              image:"LizethLopez.JPG",
               name:"Lizeth"
             },{
-              image:"Magaly Flores.jpg",
+              image:"MagalyFlores.jpg",
               name:"Magaly"
             },{
-              image:"Maria Cecilia Limay.JPG",
+              image:"MariaCeciliaLimay.JPG",
               name:"Cecilia"
             },{
-              image:"Maria Victoria Cardenas.jpg",
+              image:"MariaVictoriaCardenas.jpg",
               name:"Maria Victoria"
             },{
-              image:"Merlin Rupay.jpg",
+              image:"MerlinRupay.jpg",
               name:"Stefanny"
             },{
-              image:"Milu Robles.JPG",
+              image:"MiluRobles.JPG",
               name:"Milu"
             },{
-              image:"Monica Ccencho.jpg",
+              image:"MonicaCcencho.jpg",
               name:"Monica"
             },{
-              image:"Nayra Pillihuaman.jpg",
+              image:"NayraPillihuaman.jpg",
               name:"Nayra"
             },{
-              image:"Patricia Arakawa.JPG",
+              image:"PatriciaArakawa.JPG",
               name:"Patricia"
             },{
-              image:"Reina Torrejón.JPG",
+              image:"ReinaTorrejón.JPG",
               name:"Reina"
             },{
-              image:"Rita Ortiz.jpg",
+              image:"RitaOrtiz.jpg",
               name:"Rita"
             },{
-              image:"Sandra Azabache.JPG",
+              image:"SandraAzabache.JPG",
               name:"Sandra"
             },{
-              image:"Sara Nolasco.JPG",
+              image:"SaraNolasco.JPG",
               name:"Sara"
             },{
-              image:"Sarita Roman.jpg",
+              image:"SaritaRoman.jpg",
               name:"Sarita"
             },{
-              image:"Tania Cuya.JPG",
+              image:"TaniaCuya.JPG",
               name:"Tania"
             },{
-              image:"Vanessa Alvarado.jpg",
+              image:"VanessaAlvarado.jpg",
               name:"Vanessa"
             },{
-              image:"Vanessa Vargas.JPG",
+              image:"VanessaVargas.JPG",
               name:"Vanessa"
             },{
-              image:"Vickensi de la Cruz.jpg",
+              image:"VickensidelaCruz.jpg",
               name:"Vickensi"
             }];

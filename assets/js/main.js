@@ -17,10 +17,11 @@ $(document).ready(function(){
     var selectedOption = $('#cities option:selected');
 
     if(selectedOption.val() == "choiceLima"){
-      var image = $("<img src='assets/peru/AntonellaGutierrez.jpg'>");
-     $('.photoSpace').append(image)
+      var image = $("<img src='Materiales/peru/"+ peru[Math.floor(1+Math.random()*47)].image+"'>");
+     $('.photoSpace').html(image)
     }else{
-      alert("chau")
+      var image =$("<img src='Materiales/mexico/"+mexico[Math.floor(1+Math.random()*36)].image+"'>");
+      $('.photoSpace').html(image)
     }
   });
 });

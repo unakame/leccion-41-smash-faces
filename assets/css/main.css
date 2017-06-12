@@ -12,9 +12,8 @@ p{
   font-family: 'Roboto', sans-serif;
 }
 
-select,
-option{
-  background-color: #cccc;
+select{
+    background: rgba(0,0,0,0.3);
 }
 
 img{
@@ -38,7 +37,7 @@ hr{
 }
 
 .selection{
-  margin-top: 20px; !important
+  margin-top: 24px; !important
 }
 
 .points{
